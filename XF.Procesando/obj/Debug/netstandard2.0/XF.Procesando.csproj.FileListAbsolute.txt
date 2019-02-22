@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\bin\Debug\netstandard2.0\XF.Procesando.deps.json
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\bin\Debug\netstandard2.0\XF.Procesando.dll
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\XF.Procesando.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\XF.Procesando.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\XF.Procesando.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\XF.Procesando.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\bin\Debug\netstandard2.0\XF.Procesando.pdb
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\Procesando.xaml.g.cs
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\XF.Procesando.dll
+C:\Users\admin\Documents\GitHub\XF.Procesando\XF.Procesando\XF.Procesando\obj\Debug\netstandard2.0\XF.Procesando.pdb

@@ -7,6 +7,13 @@
             HasSystemPadding="True"
             CloseWhenBackgroundIsClicked="False"
             Padding="20,100">
-    <ActivityIndicator x:Name="IndicadorGeneral" HorizontalOptions="Center" VerticalOptions="Center"                        
-                       IsRunning="True" IsEnabled="True" />
+    <StackLayout Padding="10" BackgroundColor="WhiteSmoke" Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="Center">
+        <ActivityIndicator x:Name="IndicadorGeneral" 
+                                   HorizontalOptions="Start" 
+                                   VerticalOptions="Center"                        
+                                    IsRunning="True" 
+                                   IsEnabled="True" />
+        <Label Text="Cargando..." HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+
+    </StackLayout>
 </popup:PopupPage>
